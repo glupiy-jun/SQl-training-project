@@ -2,7 +2,7 @@
 A comprehensive SQL project to analyze e-commerce sales data using advanced business intelligence techniques.
 
 ## Features
-- Complete database schema for online store
+- Complete database structure for online store
 - Sample data for realistic analysis  
 - Business KPI calculations
 - Customer and product performance analytics
